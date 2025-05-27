@@ -4,6 +4,6 @@
 <body>
 <h2>Hello World!</h2>
 <p>Java Project</p>
-<a href="index.jsp"></a>
+<a href="about.jsp">about</a>
 </body>
 </html>
