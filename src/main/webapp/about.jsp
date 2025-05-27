@@ -8,6 +8,6 @@
 </head>
 <body>
 <h1>This is Deployment of java project </h1>
-<a href="index.jsp"></a>
+
 </body>
 </html>
